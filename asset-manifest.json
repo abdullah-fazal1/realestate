@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/github.io/realestate/static/css/main.ad5f851e.css",
+    "main.js": "/github.io/realestate/static/js/main.a623631c.js",
+    "static/js/453.d5e866d9.chunk.js": "/github.io/realestate/static/js/453.d5e866d9.chunk.js",
+    "static/media/pic2.avif": "/github.io/realestate/static/media/pic2.2baed5a1e31c63637ee8.avif",
+    "static/media/c3.jpeg": "/github.io/realestate/static/media/c3.6f6b063eb37b1fef579b.jpeg",
+    "static/media/c1.jpeg": "/github.io/realestate/static/media/c1.0ed65ca6b515ff075083.jpeg",
+    "static/media/c2.jpeg": "/github.io/realestate/static/media/c2.2c602a0e9807aa1d88a9.jpeg",
+    "static/media/IT-Support-Services-Detailed-IT-Services.jpg": "/github.io/realestate/static/media/IT-Support-Services-Detailed-IT-Services.ebae614f315eaadd227f.jpg",
+    "static/media/3.jpg": "/github.io/realestate/static/media/3.fc881b1a339fa2403a81.jpg",
+    "static/media/pic1.avif": "/github.io/realestate/static/media/pic1.df5695e081c3e84ee880.avif",
+    "static/media/pic3.webp": "/github.io/realestate/static/media/pic3.4aa4b103a64d524e3e16.webp",
+    "static/media/client.webp": "/github.io/realestate/static/media/client.0918dfdb667e338f7dd2.webp",
+    "static/media/network.jpg": "/github.io/realestate/static/media/network.d8df2e35bd80ac95a772.jpg",
+    "static/media/Retail.jpg": "/github.io/realestate/static/media/Retail.01d76b1273d477110ad5.jpg",
+    "static/media/2.jpg": "/github.io/realestate/static/media/2.c264e12155eef7087d24.jpg",
+    "static/media/1.jpg": "/github.io/realestate/static/media/1.2b9839b3ae02e80dbf03.jpg",
+    "static/media/webdevelopmnt.jpg": "/github.io/realestate/static/media/webdevelopmnt.b312e507be78bda1c635.jpg",
+    "static/media/team.webp": "/github.io/realestate/static/media/team.abeb00751febb652dadb.webp",
+    "static/media/application-development.avif": "/github.io/realestate/static/media/application-development.620cf98093cf53fcb5fa.avif",
+    "index.html": "/github.io/realestate/index.html",
+    "main.ad5f851e.css.map": "/github.io/realestate/static/css/main.ad5f851e.css.map",
+    "main.a623631c.js.map": "/github.io/realestate/static/js/main.a623631c.js.map",
+    "453.d5e866d9.chunk.js.map": "/github.io/realestate/static/js/453.d5e866d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad5f851e.css",
+    "static/js/main.a623631c.js"
+  ]
+}
